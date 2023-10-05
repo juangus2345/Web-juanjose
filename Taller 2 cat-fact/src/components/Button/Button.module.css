@@ -1,0 +1,13 @@
+.fetchBtn {
+  border-radius: 7px;
+  color: rgb(21, 149, 228);
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.5);
+  font-size: 1em;
+  border: none;
+  font-weight:bold;
+  width: 30vh;
+  height: 8vh;
+  margin: 3vh;
+  text-align: center;
+  
+}
